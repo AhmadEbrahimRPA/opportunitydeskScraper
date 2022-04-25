@@ -1,0 +1,2 @@
+ 2020-06-13 09:27:05,999 - INFO- Navigate to desired https://l.facebook.com/l.php?u=http%3A%2F%2Fdemo.automationtesting.in%2FWebTable.html%3Ffbclid%3DIwAR3oJJPq8TFyVcQVPnI1_Vgcvp8qAtT3UUkPqGpUCPgY6h8p1phdi93puFM&h=AT2fltf3-0gK8QTUuzXvMoSmeYLYirNw1arIeJ7vxtrxOIsB7TlHXiFJ_gcK55sRZ7q8s06y2ZQXwx4nZEdAmKbKWo92rC92zn8iauOZh5IG3Lz45bpuyWGA4GKDYaygRQ3H
+ 2020-06-13 09:27:07,255 - INFO- navigated to URL

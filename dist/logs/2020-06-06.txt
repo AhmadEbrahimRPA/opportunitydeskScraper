@@ -1,0 +1,277 @@
+ 2020-06-06 22:58:36,859 - INFO- scraping scholarships...
+ 2020-06-06 22:58:36,859 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/1
+ 2020-06-06 22:59:25,960 - INFO- navigated to URL
+ 2020-06-06 22:59:26,007 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/2
+ 2020-06-06 22:59:27,400 - INFO- navigated to URL
+ 2020-06-06 22:59:27,447 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/3
+ 2020-06-06 22:59:29,114 - INFO- navigated to URL
+ 2020-06-06 22:59:29,162 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/4
+ 2020-06-06 22:59:30,855 - INFO- navigated to URL
+ 2020-06-06 22:59:30,902 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/5
+ 2020-06-06 22:59:32,491 - INFO- navigated to URL
+ 2020-06-06 22:59:32,539 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/6
+ 2020-06-06 22:59:33,913 - INFO- navigated to URL
+ 2020-06-06 22:59:33,976 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/7
+ 2020-06-06 22:59:35,409 - INFO- navigated to URL
+ 2020-06-06 22:59:35,465 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/8
+ 2020-06-06 22:59:36,938 - INFO- navigated to URL
+ 2020-06-06 22:59:36,997 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/9
+ 2020-06-06 22:59:38,885 - INFO- navigated to URL
+ 2020-06-06 22:59:38,932 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/10
+ 2020-06-06 22:59:40,633 - INFO- navigated to URL
+ 2020-06-06 22:59:40,679 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/11
+ 2020-06-06 22:59:42,435 - INFO- navigated to URL
+ 2020-06-06 22:59:42,481 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/12
+ 2020-06-06 22:59:44,139 - INFO- navigated to URL
+ 2020-06-06 22:59:44,185 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/13
+ 2020-06-06 22:59:45,578 - INFO- navigated to URL
+ 2020-06-06 22:59:45,625 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/14
+ 2020-06-06 22:59:47,157 - INFO- navigated to URL
+ 2020-06-06 22:59:47,204 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/15
+ 2020-06-06 22:59:48,898 - INFO- navigated to URL
+ 2020-06-06 22:59:48,945 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/16
+ 2020-06-06 22:59:50,524 - INFO- navigated to URL
+ 2020-06-06 22:59:50,570 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/17
+ 2020-06-06 22:59:52,482 - INFO- navigated to URL
+ 2020-06-06 22:59:52,529 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/18
+ 2020-06-06 22:59:53,820 - INFO- navigated to URL
+ 2020-06-06 22:59:53,868 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/19
+ 2020-06-06 22:59:55,461 - INFO- navigated to URL
+ 2020-06-06 22:59:55,509 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/20
+ 2020-06-06 22:59:57,612 - INFO- navigated to URL
+ 2020-06-06 22:59:57,658 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/21
+ 2020-06-06 22:59:59,864 - INFO- navigated to URL
+ 2020-06-06 22:59:59,911 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/22
+ 2020-06-06 23:00:01,391 - INFO- navigated to URL
+ 2020-06-06 23:00:01,472 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/23
+ 2020-06-06 23:00:03,308 - INFO- navigated to URL
+ 2020-06-06 23:00:03,356 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/24
+ 2020-06-06 23:00:05,756 - INFO- navigated to URL
+ 2020-06-06 23:00:05,803 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/25
+ 2020-06-06 23:00:08,390 - INFO- navigated to URL
+ 2020-06-06 23:00:08,437 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/26
+ 2020-06-06 23:00:11,731 - INFO- navigated to URL
+ 2020-06-06 23:00:11,802 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/27
+ 2020-06-06 23:00:15,354 - INFO- navigated to URL
+ 2020-06-06 23:00:15,402 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/28
+ 2020-06-06 23:00:17,790 - INFO- navigated to URL
+ 2020-06-06 23:00:17,839 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/29
+ 2020-06-06 23:00:19,786 - INFO- navigated to URL
+ 2020-06-06 23:00:19,844 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/30
+ 2020-06-06 23:00:21,494 - INFO- navigated to URL
+ 2020-06-06 23:00:21,542 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/31
+ 2020-06-06 23:00:23,377 - INFO- navigated to URL
+ 2020-06-06 23:00:23,425 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/32
+ 2020-06-06 23:00:25,838 - INFO- navigated to URL
+ 2020-06-06 23:00:25,888 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/33
+ 2020-06-06 23:00:28,906 - INFO- navigated to URL
+ 2020-06-06 23:00:28,950 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/34
+ 2020-06-06 23:00:32,302 - INFO- navigated to URL
+ 2020-06-06 23:00:32,346 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/35
+ 2020-06-06 23:00:34,143 - INFO- navigated to URL
+ 2020-06-06 23:00:34,188 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/36
+ 2020-06-06 23:00:37,644 - INFO- navigated to URL
+ 2020-06-06 23:00:37,687 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/37
+ 2020-06-06 23:00:41,617 - INFO- navigated to URL
+ 2020-06-06 23:00:41,664 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/38
+ 2020-06-06 23:00:44,461 - INFO- navigated to URL
+ 2020-06-06 23:00:44,538 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/39
+ 2020-06-06 23:00:48,653 - INFO- navigated to URL
+ 2020-06-06 23:00:48,697 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/40
+ 2020-06-06 23:00:51,847 - INFO- navigated to URL
+ 2020-06-06 23:00:51,892 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/41
+ 2020-06-06 23:00:58,625 - INFO- navigated to URL
+ 2020-06-06 23:00:58,670 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/42
+ 2020-06-06 23:01:02,495 - INFO- navigated to URL
+ 2020-06-06 23:01:02,551 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/43
+ 2020-06-06 23:01:06,731 - INFO- navigated to URL
+ 2020-06-06 23:01:06,779 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/44
+ 2020-06-06 23:01:09,601 - INFO- navigated to URL
+ 2020-06-06 23:01:09,659 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/45
+ 2020-06-06 23:01:11,647 - INFO- navigated to URL
+ 2020-06-06 23:01:11,694 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/46
+ 2020-06-06 23:01:13,905 - INFO- navigated to URL
+ 2020-06-06 23:01:13,951 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/47
+ 2020-06-06 23:01:16,781 - INFO- navigated to URL
+ 2020-06-06 23:01:16,828 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/48
+ 2020-06-06 23:01:19,328 - INFO- navigated to URL
+ 2020-06-06 23:01:19,384 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/49
+ 2020-06-06 23:01:21,149 - INFO- navigated to URL
+ 2020-06-06 23:01:21,195 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/50
+ 2020-06-06 23:01:23,280 - INFO- navigated to URL
+ 2020-06-06 23:01:23,328 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/51
+ 2020-06-06 23:01:25,516 - INFO- navigated to URL
+ 2020-06-06 23:01:25,563 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/52
+ 2020-06-06 23:01:28,692 - INFO- navigated to URL
+ 2020-06-06 23:01:28,741 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/53
+ 2020-06-06 23:01:31,661 - INFO- navigated to URL
+ 2020-06-06 23:01:31,705 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/54
+ 2020-06-06 23:01:34,027 - INFO- navigated to URL
+ 2020-06-06 23:01:34,104 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/55
+ 2020-06-06 23:01:36,842 - INFO- navigated to URL
+ 2020-06-06 23:01:36,886 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/56
+ 2020-06-06 23:01:39,545 - INFO- navigated to URL
+ 2020-06-06 23:01:39,591 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/57
+ 2020-06-06 23:01:41,259 - INFO- navigated to URL
+ 2020-06-06 23:01:41,304 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/58
+ 2020-06-06 23:01:43,249 - INFO- navigated to URL
+ 2020-06-06 23:01:43,294 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/59
+ 2020-06-06 23:01:45,761 - INFO- navigated to URL
+ 2020-06-06 23:01:45,806 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/60
+ 2020-06-06 23:01:49,519 - INFO- navigated to URL
+ 2020-06-06 23:01:49,564 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/61
+ 2020-06-06 23:01:52,072 - INFO- navigated to URL
+ 2020-06-06 23:01:52,121 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/62
+ 2020-06-06 23:01:53,811 - INFO- navigated to URL
+ 2020-06-06 23:01:53,855 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/63
+ 2020-06-06 23:01:55,583 - INFO- navigated to URL
+ 2020-06-06 23:01:55,627 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/64
+ 2020-06-06 23:01:57,507 - INFO- navigated to URL
+ 2020-06-06 23:01:57,551 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/65
+ 2020-06-06 23:01:59,156 - INFO- navigated to URL
+ 2020-06-06 23:01:59,201 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/66
+ 2020-06-06 23:02:00,887 - INFO- navigated to URL
+ 2020-06-06 23:02:00,932 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/67
+ 2020-06-06 23:02:02,588 - INFO- navigated to URL
+ 2020-06-06 23:02:02,632 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/68
+ 2020-06-06 23:02:05,045 - INFO- navigated to URL
+ 2020-06-06 23:02:05,092 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/69
+ 2020-06-06 23:02:07,395 - INFO- navigated to URL
+ 2020-06-06 23:02:07,440 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/70
+ 2020-06-06 23:02:09,209 - INFO- navigated to URL
+ 2020-06-06 23:02:09,254 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/71
+ 2020-06-06 23:02:10,808 - INFO- navigated to URL
+ 2020-06-06 23:02:10,881 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/72
+ 2020-06-06 23:02:12,689 - INFO- navigated to URL
+ 2020-06-06 23:02:12,735 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/73
+ 2020-06-06 23:02:14,648 - INFO- navigated to URL
+ 2020-06-06 23:02:14,746 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/74
+ 2020-06-06 23:02:16,140 - INFO- navigated to URL
+ 2020-06-06 23:02:16,186 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/75
+ 2020-06-06 23:02:18,198 - INFO- navigated to URL
+ 2020-06-06 23:02:18,250 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/76
+ 2020-06-06 23:02:20,078 - INFO- navigated to URL
+ 2020-06-06 23:02:20,124 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/77
+ 2020-06-06 23:02:22,015 - INFO- navigated to URL
+ 2020-06-06 23:02:22,064 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/78
+ 2020-06-06 23:02:23,895 - INFO- navigated to URL
+ 2020-06-06 23:02:23,941 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/79
+ 2020-06-06 23:02:25,558 - INFO- navigated to URL
+ 2020-06-06 23:02:25,604 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/80
+ 2020-06-06 23:02:27,583 - INFO- navigated to URL
+ 2020-06-06 23:02:27,628 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/81
+ 2020-06-06 23:02:29,520 - INFO- navigated to URL
+ 2020-06-06 23:02:29,582 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/82
+ 2020-06-06 23:02:32,226 - INFO- navigated to URL
+ 2020-06-06 23:02:32,271 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/83
+ 2020-06-06 23:02:34,586 - INFO- navigated to URL
+ 2020-06-06 23:02:34,633 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/84
+ 2020-06-06 23:02:39,837 - INFO- navigated to URL
+ 2020-06-06 23:02:39,885 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/85
+ 2020-06-06 23:02:41,558 - INFO- navigated to URL
+ 2020-06-06 23:02:41,604 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/86
+ 2020-06-06 23:02:43,239 - INFO- navigated to URL
+ 2020-06-06 23:02:43,283 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/87
+ 2020-06-06 23:02:44,921 - INFO- navigated to URL
+ 2020-06-06 23:02:44,995 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/88
+ 2020-06-06 23:02:46,991 - INFO- navigated to URL
+ 2020-06-06 23:02:47,036 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/89
+ 2020-06-06 23:02:48,460 - INFO- navigated to URL
+ 2020-06-06 23:02:48,505 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/90
+ 2020-06-06 23:02:50,546 - INFO- navigated to URL
+ 2020-06-06 23:02:50,602 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/91
+ 2020-06-06 23:02:52,738 - INFO- navigated to URL
+ 2020-06-06 23:02:52,783 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/92
+ 2020-06-06 23:03:58,835 - INFO- navigated to URL
+ 2020-06-06 23:03:58,891 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/93
+ 2020-06-06 23:04:01,366 - INFO- navigated to URL
+ 2020-06-06 23:04:01,414 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/94
+ 2020-06-06 23:04:03,209 - INFO- navigated to URL
+ 2020-06-06 23:04:03,256 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/95
+ 2020-06-06 23:04:05,035 - INFO- navigated to URL
+ 2020-06-06 23:04:05,084 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/96
+ 2020-06-06 23:04:06,931 - INFO- navigated to URL
+ 2020-06-06 23:04:06,978 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/97
+ 2020-06-06 23:04:08,738 - INFO- navigated to URL
+ 2020-06-06 23:04:08,785 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/98
+ 2020-06-06 23:04:11,076 - INFO- navigated to URL
+ 2020-06-06 23:04:11,124 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/99
+ 2020-06-06 23:04:13,663 - INFO- navigated to URL
+ 2020-06-06 23:04:13,710 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/100
+ 2020-06-06 23:04:16,695 - INFO- navigated to URL
+ 2020-06-06 23:04:16,741 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/101
+ 2020-06-06 23:04:19,623 - INFO- navigated to URL
+ 2020-06-06 23:04:19,673 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/102
+ 2020-06-06 23:04:22,212 - INFO- navigated to URL
+ 2020-06-06 23:04:22,258 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/103
+ 2020-06-06 23:04:24,850 - INFO- navigated to URL
+ 2020-06-06 23:04:24,932 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/104
+ 2020-06-06 23:04:30,742 - INFO- navigated to URL
+ 2020-06-06 23:04:30,789 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/105
+ 2020-06-06 23:04:33,880 - INFO- navigated to URL
+ 2020-06-06 23:04:33,941 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/106
+ 2020-06-06 23:04:37,059 - INFO- navigated to URL
+ 2020-06-06 23:04:37,108 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/107
+ 2020-06-06 23:04:39,979 - INFO- navigated to URL
+ 2020-06-06 23:04:40,028 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/108
+ 2020-06-06 23:04:43,652 - INFO- navigated to URL
+ 2020-06-06 23:04:43,702 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/109
+ 2020-06-06 23:04:47,340 - INFO- navigated to URL
+ 2020-06-06 23:04:47,391 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/110
+ 2020-06-06 23:04:50,724 - INFO- navigated to URL
+ 2020-06-06 23:04:50,777 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/111
+ 2020-06-06 23:04:54,913 - INFO- navigated to URL
+ 2020-06-06 23:04:54,958 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/112
+ 2020-06-06 23:05:01,030 - INFO- navigated to URL
+ 2020-06-06 23:05:01,090 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/113
+ 2020-06-06 23:06:36,524 - INFO- navigated to URL
+ 2020-06-06 23:06:36,569 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/114
+ 2020-06-06 23:06:38,504 - INFO- navigated to URL
+ 2020-06-06 23:06:38,548 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/115
+ 2020-06-06 23:06:40,148 - INFO- navigated to URL
+ 2020-06-06 23:06:40,192 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/116
+ 2020-06-06 23:06:41,757 - INFO- navigated to URL
+ 2020-06-06 23:06:41,801 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/117
+ 2020-06-06 23:06:43,627 - INFO- navigated to URL
+ 2020-06-06 23:06:43,672 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/118
+ 2020-06-06 23:06:45,819 - INFO- navigated to URL
+ 2020-06-06 23:06:45,862 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/119
+ 2020-06-06 23:06:50,743 - INFO- navigated to URL
+ 2020-06-06 23:06:50,817 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/120
+ 2020-06-06 23:06:52,440 - INFO- navigated to URL
+ 2020-06-06 23:06:52,483 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/121
+ 2020-06-06 23:06:54,235 - INFO- navigated to URL
+ 2020-06-06 23:06:54,278 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/122
+ 2020-06-06 23:06:56,143 - INFO- navigated to URL
+ 2020-06-06 23:06:56,188 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/123
+ 2020-06-06 23:06:57,989 - INFO- navigated to URL
+ 2020-06-06 23:06:58,033 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/124
+ 2020-06-06 23:06:59,745 - INFO- navigated to URL
+ 2020-06-06 23:06:59,787 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/125
+ 2020-06-06 23:07:01,870 - INFO- navigated to URL
+ 2020-06-06 23:07:01,914 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/126
+ 2020-06-06 23:07:03,665 - INFO- navigated to URL
+ 2020-06-06 23:07:03,710 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/127
+ 2020-06-06 23:07:05,365 - INFO- navigated to URL
+ 2020-06-06 23:07:05,411 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/128
+ 2020-06-06 23:07:06,749 - INFO- navigated to URL
+ 2020-06-06 23:07:06,794 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/129
+ 2020-06-06 23:07:07,997 - INFO- navigated to URL
+ 2020-06-06 23:07:08,042 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/130
+ 2020-06-06 23:07:10,006 - INFO- navigated to URL
+ 2020-06-06 23:07:10,051 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/131
+ 2020-06-06 23:07:11,729 - INFO- navigated to URL
+ 2020-06-06 23:07:11,775 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/132
+ 2020-06-06 23:07:13,317 - INFO- navigated to URL
+ 2020-06-06 23:07:13,361 - INFO- Navigate to desired https://opportunitydesk.org/category/fellowships-and-scholarships/page/133
+ 2020-06-06 23:07:14,871 - INFO- navigated to URL
+ 2020-06-06 23:07:14,894 - INFO- scholarships scraped successfully
+ 2020-06-06 23:07:14,894 - INFO- total number of scholarships is1977
+ 2020-06-06 23:07:15,283 - INFO- get new scholarships
+ 2020-06-06 23:07:15,313 - INFO- write data to excel file
+ 2020-06-06 23:07:17,338 - INFO- data written to excel file
+ 2020-06-06 23:07:17,339 - INFO- new scholarships successfully got
+ 2020-06-06 23:07:17,342 - INFO- get deleted scholarships
+ 2020-06-06 23:07:17,378 - INFO- write data to excel file
+ 2020-06-06 23:07:17,645 - INFO- data written to excel file
+ 2020-06-06 23:07:17,646 - INFO- --- 8 Minutes ---
